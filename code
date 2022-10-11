@@ -11,4 +11,8 @@ int asciivalue2 = ch2;
 System.out.println("The ASCII value of " + ch1 + " is: " + asciivalue1);  
 System.out.println("The ASCII value of " + ch2 + " is: " + asciivalue2);  
 }  
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
 }  
